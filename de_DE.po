@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recentcomments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-06 16:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recentcomments.php:105
+msgid "yes"
+msgstr "ja"
+
+#: recentcomments.php:105
+msgid "no"
+msgstr "nein"
+
+#: recentcomments.php:120
+msgid "Show date/time"
+msgstr "Datum anzeigen?"
+
+#: recentcomments.php:121
+msgid "Date/time format"
+msgstr "Datumsformat"
+
+#: recentcomments.php:121
+msgid "m.d.Y"
+msgstr "d.mY"
+
+#: recentcomments.php:121
+msgid "According to the PHP <a href=\"http://www.php.net/date\" target=\"_blank\">date()</a> function."
+msgstr "Alle Symbole der PHP <a href=\"http://www.php.net/date\" target=\"_blank\">date()</a> Funktion werden unterst&uuml;tzt."
+
+#: recentcomments.php:123
+msgid "Show gravatars"
+msgstr "Gravatare anzeigen?"
+
+#: recentcomments.php:124
+msgid "Gravatar default"
+msgstr "Default Gravatar"
+
+#: recentcomments.php:125
+msgid "Gravatar default url"
+msgstr "Default Gravatar Url"
+
+#: recentcomments.php:125
+msgid "if set overrules the default gravatar selected above"
+msgstr "&Uuml;berschreibt die Angabe von \"Default Gravatar\"."
+
+#: recentcomments.php:126
+msgid "Gravatar rating"
+msgstr "Gravatar Rating"
+
+#: recentcomments.php:126
+msgid "to ensure the images are SFW"
+msgstr "Alterstufe für die Gravatare festlegen."
+
+#: recentcomments.php:127
+msgid "Gravatar size"
+msgstr "Gravatar Gr&ouml;&szlig;e"
+
+#: recentcomments.php:129
+msgid "Misc. listing - comments, trackbacks, pingbacks mixed"
+msgstr "Gemischtes Listing - Kommentare, Trackbacks und Pingbacks zusammen angzeigen"
+
+#: recentcomments.php:130
+msgid "Misc title"
+msgstr "Titel"
+
+#: recentcomments.php:130
+#: recentcomments.php:247
+msgid "Recent activity"
+msgstr "Neueste Aktivit&auml;t"
+
+#: recentcomments.php:130
+#: recentcomments.php:137
+#: recentcomments.php:144
+#: recentcomments.php:150
+msgid "The title is shown above the listing in widget mode."
+msgstr "Der Titel wird oberhalb des Listings im Widget Modus angezeigt."
+
+#: recentcomments.php:131
+msgid "Misc limit"
+msgstr "Anzahl der Eintr&auml;ge"
+
+#: recentcomments.php:131
+msgid "Max. # of items to show"
+msgstr "Maximale Anzahl der Beiträge die angezeigt werden sollen."
+
+#: recentcomments.php:132
+msgid "Misc length"
+msgstr "L&auml;nge der Eintr&auml;ge"
+
+#: recentcomments.php:132
+#: recentcomments.php:139
+#: recentcomments.php:146
+#: recentcomments.php:152
+msgid "Max. length of text"
+msgstr "Maximale L&auml;nge der einzelnen Einträge."
+
+#: recentcomments.php:133
+msgid "Misc sorting"
+msgstr "Darstellung"
+
+#: recentcomments.php:133
+#: recentcomments.php:140
+#: recentcomments.php:147
+#: recentcomments.php:153
+msgid "flat"
+msgstr "als Liste"
+
+#: recentcomments.php:133
+#: recentcomments.php:140
+#: recentcomments.php:147
+#: recentcomments.php:153
+msgid "grouped"
+msgstr "gruppiert nach Beitrag"
+
+#: recentcomments.php:134
+msgid "Expandable?"
+msgstr "aufklappbar?"
+
+#: recentcomments.php:134
+#: recentcomments.php:141
+#: recentcomments.php:148
+#: recentcomments.php:154
+msgid "listing expands on mouse over"
+msgstr "Das Listing klappt auf, wenn man mit der Maus dar&uuml;ber f&auml;hrt."
+
+#: recentcomments.php:136
+msgid "Comments"
+msgstr "Kommentare"
+
+#: recentcomments.php:137
+msgid "Comments title"
+msgstr "Titel"
+
+#: recentcomments.php:137
+#: recentcomments.php:253
+msgid "Recent comments"
+msgstr "Neueste Kommentare"
+
+#: recentcomments.php:138
+msgid "Comments limit"
+msgstr "Anzahl der Eintr&auml;ge"
+
+#: recentcomments.php:138
+msgid "Max. # of comments to show"
+msgstr "Maximale Anzahl der anzuzeigende Einträge."
+
+#: recentcomments.php:139
+msgid "Comments length"
+msgstr "Maximale L&auml;nge der einzelnen Einträge."
+
+#: recentcomments.php:140
+msgid "Comments sorting"
+msgstr "Darstellung"
+
+#: recentcomments.php:141
+msgid "Expandable comments?"
+msgstr "aufklappbar?"
+
+#: recentcomments.php:142
+msgid "Exclude"
+msgstr "Ausschliessen"
+
+#: recentcomments.php:142
+msgid "Exclude comment authors by email"
+msgstr "Autoren anhand der E-Mail aus dem Listing ausschliessen."
+
+#: recentcomments.php:143
+msgid "Trackbacks"
+msgstr ""
+
+#: recentcomments.php:144
+msgid "Trackbacks title"
+msgstr "Titel"
+
+#: recentcomments.php:144
+msgid "Recent trackbacks "
+msgstr "Neueste Trackbacks"
+
+#: recentcomments.php:145
+msgid "Trackbacks limit"
+msgstr "Anzahl der Eintr&auml;ge"
+
+#: recentcomments.php:145
+msgid "Max. # of trackbacks to show"
+msgstr "Maximale Anzahl der anzuzeigende Einträge."
+
+#: recentcomments.php:146
+msgid "Trackbacks length"
+msgstr "Maximale L&auml;nge der einzelnen Einträge."
+
+#: recentcomments.php:147
+msgid "Trackbacks sorting"
+msgstr "Darstellung"
+
+#: recentcomments.php:148
+msgid "Expandable trackbacks?"
+msgstr "aufklappbar?"
+
+#: recentcomments.php:149
+msgid "Pingbacks"
+msgstr ""
+
+#: recentcomments.php:150
+msgid "Pingbacks title"
+msgstr "Titel"
+
+#: recentcomments.php:150
+msgid "Recent pingbacks "
+msgstr "Neueste Pingbacks"
+
+#: recentcomments.php:151
+msgid "Pingbacks limit"
+msgstr "Anzahl der Eintr&auml;ge"
+
+#: recentcomments.php:151
+msgid "Max. # of pingbacks to show"
+msgstr "Maximale Anzahl der anzuzeigende Einträge."
+
+#: recentcomments.php:152
+msgid "Pingbacks length"
+msgstr "L&auml;nge der Eintr&auml;ge"
+
+#: recentcomments.php:153
+msgid "Pingbacks sorting"
+msgstr "Darstellung"
+
+#: recentcomments.php:154
+msgid "Expandable pingbacks?"
+msgstr "aufklappbar?"
+
+#: recentcomments.php:166
+msgid "Settings saved!"
+msgstr "Die Einstellungen wurden gespeichert."
+
+#: recentcomments.php:172
+msgid "Click here for integration instructions."
+msgstr "Klicke hier f&uuml;r die Einbindung."
+
+#: recentcomments.php:194
+msgid "Integration"
+msgstr "Einbindung"
+
+#: recentcomments.php:195
+msgid "Use the sidebar widgets of paste on of the codesnippets below into your template file."
+msgstr "Nutze die Sidebar-Widgets unter Themes -> Widgets oder kopiere die folgenden Codeschnipsel in dein Template."
+
+#: recentcomments.php:198
+msgid "Misc. listing"
+msgstr "gemischtes Listing"
+
+#: recentcomments.php:201
+msgid "Comments only"
+msgstr "nur Kommentare"
+
+#: recentcomments.php:204
+msgid "Trackbacks only"
+msgstr "nur Trackbacks"
+
+#: recentcomments.php:207
+msgid "Pingbacks only"
+msgstr "nur Pingbacks"
+
+#: recentcomments.php:212
+msgid "save"
+msgstr "speichern"
+
+#: recentcomments.php:238
+msgid "m.d.y"
+msgstr "d.m.Y"
+
+#: recentcomments.php:259
+msgid "Recent trackbacks"
+msgstr "Neueste Trackbacks"
+
+#: recentcomments.php:265
+msgid "Recent pingbacks"
+msgstr "Neueste Pingbacks"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+

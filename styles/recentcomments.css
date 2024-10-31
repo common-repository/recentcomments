@@ -1,0 +1,80 @@
+/**
+ * recent comments wrapper
+ */
+.recentcomment {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+#recentmisc ul li a.author, #recentcomment ul li a.author, #recenttrackback ul li a.author, #recentpingback ul li a.author {
+  font-weight: bold !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
+}
+/**
+ * listing
+ */
+.recentcomment_flat,
+.recentcomment_grouped,
+.recentcomment_flat li,
+.recentcomment_grouped li {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.recentcomment_flat_expandable,
+.recentcomment_flat_expandable li,
+.recentcomment_flat li ul,
+.recentcomment_grouped_expandable,
+.recentcomment_grouped_expandable li,
+.recentcomment_grouped li ul {
+  padding: 0 !important;
+  margin: 0 !important;
+/*  margin-bottom: 5px !important;*/
+/*  margin-top: 5px !important;*/
+}
+.recentcomment_flat li ul li,
+.recentcomment_flat_expandable li ul li,
+.recentcomment_grouped_expandable li ul li,
+.recentcomment_grouped li ul li {
+  padding: 0 !important;
+  margin: 0 !important;
+  margin-left: 5px !important;
+  margin-bottom: 5px !important;
+/*  margin-top: 5px !important;*/
+}
+.recentcomment_flat_expandable li ul,
+.recentcomment_grouped_expandable li ul {
+  display: none;
+}
+.recentcomment_flat li ul,
+.recentcomment_grouped li ul {
+  padding: 0 !important;
+  margin: 0 !important;
+/*  margin-left: 5px !important;*/
+}
+.recentcomment_flat_expandable li.hover ul,
+.recentcomment_grouped_expandable li.hover ul {
+  display: block;
+}
+/**
+ * footer
+ */
+div#recentmisc div, div#recenttrackback div, div#recentpingback div, div#recentcomment div {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  color: #aaa;
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+div#recentmisc div a:hover, div#recentmisc div a:link, div#recentmisc div a:visited, div#recentmisc div a:active,
+div#recenttrackback div a:hover, div#recenttrackback div a:link, div#recenttrackback div a:visited, div#recentrecenttrackback div a:active, div#recentpingback div a:hover, div#recentpingback div a:link, div#recentpingback div a:visited, div#recentpingback div a:active, div#recentcomment div a:hover, div#recentcomment div a:link, div#recentcomment div a:visited, div#recentcomment div a:active {
+  color: #aaa;
+  text-decoration: none;
+  cursor: pointer;
+  text-transform: none;
+}
